@@ -1,0 +1,162 @@
+[
+  {
+    "_id": { "$oid": "700060000000000000000001" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000001" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000002" },
+    "noi_dung": "Chào bạn B, bạn khỏe không?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-01T09:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000002" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000003" },
+    "noi_dung": "Mình có điều này muốn hỏi bạn.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-02T11:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000003" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000003" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000004" },
+    "noi_dung": "Bạn đã xem hình mình gửi chưa?",
+    "tep_dinh_kem": "https://example.com/media/img1.jpg",
+    "ngay_tao": { "$date": "2024-08-03T14:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000004" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000004" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000005" },
+    "noi_dung": "Có rảnh cà phê chiều nay không?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-04T16:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000005" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000005" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000006" },
+    "noi_dung": "Mình gửi bạn file tài liệu nhé.",
+    "tep_dinh_kem": "document.pdf",
+    "ngay_tao": { "$date": "2024-08-05T10:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000006" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000006" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000007" },
+    "noi_dung": "Bạn check giúp mình thông tin này.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-06T09:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000007" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000007" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000008" },
+    "noi_dung": "Chúc bạn một ngày tốt lành!",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-07T18:25:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000008" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000008" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000009" },
+    "noi_dung": "Đây là ảnh bạn cần.",
+    "tep_dinh_kem": "photo.png",
+    "ngay_tao": { "$date": "2024-08-08T20:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000009" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000009" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000010" },
+    "noi_dung": "Cám ơn bạn đã hỗ trợ.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-09T08:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000010" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000010" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000011" },
+    "noi_dung": "Bạn online không?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-10T13:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000011" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000011" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000012" },
+    "noi_dung": "Hẹn gặp bạn trong buổi hội thảo.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-11T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000012" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000012" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000001" },
+    "noi_dung": "Tin nhắn cuối cùng để hoàn tất 12 document.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-12T21:30:00Z" }
+  },
+   {
+    "_id": { "$oid": "700060000000000000000013" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000003" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000004" },
+    "noi_dung": "Bạn gửi tài liệu giúp mình nhé?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-13T09:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000014" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000004" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000009" },
+    "noi_dung": "Ok bạn, mình sẽ gửi ngay.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-13T09:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000015" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000005" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000002" },
+    "noi_dung": "Mai đi cà phê không bạn?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-13T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000016" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000005" },
+    "noi_dung": "Đi chứ, 9h nhé!",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-13T10:05:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000017" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000010" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000015" },
+    "noi_dung": "Bạn đã hoàn thành bài báo cáo chưa?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-14T14:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000018" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000015" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000010" },
+    "noi_dung": "Rồi bạn nhé, mình vừa gửi qua email.",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-14T14:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000019" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000018" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000007" },
+    "noi_dung": "Bạn có tham gia sự kiện tuần này không?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-14T18:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000020" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000007" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000018" },
+    "noi_dung": "Có nha! Bạn định đi vào lúc mấy giờ?",
+    "tep_dinh_kem": "",
+    "ngay_tao": { "$date": "2024-08-14T18:10:00Z" }
+  }
+]

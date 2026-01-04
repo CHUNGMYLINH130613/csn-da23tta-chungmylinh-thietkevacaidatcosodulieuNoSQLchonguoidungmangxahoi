@@ -1,0 +1,222 @@
+[
+  {
+    "_id": { "$oid": "700020000000000000000001" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000001" },
+    "tieu_de": "Khởi đầu trên nền tảng mới",
+    "noi_dung": "Bài viết đầu tiên trên hệ thống!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-01T08:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-01T08:00:00Z" },
+    "so_luot_thich": 10,
+    "so_binh_luan": 2
+  },
+  {
+    "_id": { "$oid": "700020000000000000000002" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000002" },
+    "tieu_de": "Ngày tràn đầy năng lượng",
+    "noi_dung": "Chia sẻ một ngày tuyệt vời!",
+    "tep_phuong_tien": ["img1.jpg"],
+    "ngay_tao": { "$date": "2024-01-02T09:15:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-02T09:15:00Z" },
+    "so_luot_thich": 5,
+    "so_binh_luan": 1
+  },
+  {
+    "_id": { "$oid": "700020000000000000000003" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000003" },
+    "tieu_de": "Cảm hứng từ thiên nhiên",
+    "noi_dung": "Hôm nay trời đẹp quá!",
+    "tep_phuong_tien": ["photo.png"],
+    "ngay_tao": { "$date": "2024-01-03T07:30:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-03T07:30:00Z" },
+    "so_luot_thich": 7,
+    "so_binh_luan": 0
+  },
+  {
+    "_id": { "$oid": "700020000000000000000004" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000004" },
+    "tieu_de": "Học hỏi để tiến bộ",
+    "noi_dung": "Cùng nhau học lập trình!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-04T10:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-04T10:00:00Z" },
+    "so_luot_thich": 12,
+    "so_binh_luan": 3
+  },
+  {
+    "_id": { "$oid": "700020000000000000000005" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000005" },
+    "tieu_de": "Thành quả sau nỗ lực",
+    "noi_dung": "Tôi vừa hoàn thành bài tập!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-05T13:20:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-05T13:20:00Z" },
+    "so_luot_thich": 4,
+    "so_binh_luan": 1
+  },
+  {
+    "_id": { "$oid": "700020000000000000000006" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000006" },
+    "tieu_de": "Khoảng thời gian thư giãn",
+    "noi_dung": "Cuối tuần thư giãn!",
+    "tep_phuong_tien": ["video1.mp4"],
+    "ngay_tao": { "$date": "2024-01-06T16:45:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-06T16:45:00Z" },
+    "so_luot_thich": 9,
+    "so_binh_luan": 2
+  },
+  {
+    "_id": { "$oid": "700020000000000000000007" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000007" },
+    "tieu_de": "Bắt đầu ngày mới",
+    "noi_dung": "Một tách cà phê cho ngày mới!",
+    "tep_phuong_tien": ["coffee.jpg"],
+    "ngay_tao": { "$date": "2024-01-07T06:50:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-07T06:50:00Z" },
+    "so_luot_thich": 6,
+    "so_binh_luan": 0
+  },
+  {
+    "_id": { "$oid": "700020000000000000000008" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000008" },
+    "tieu_de": "Thời gian cho bản thân",
+    "noi_dung": "Đang đọc một cuốn sách hay.",
+    "tep_phuong_tien": ["book.png"],
+    "ngay_tao": { "$date": "2024-01-08T11:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-08T11:00:00Z" },
+    "so_luot_thich": 3,
+    "so_binh_luan": 1
+  },
+  {
+    "_id": { "$oid": "700020000000000000000009" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000009" },
+    "tieu_de": "Buổi tối yên bình",
+    "noi_dung": "Đi dạo buổi tối.",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-09T19:40:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-09T19:40:00Z" },
+    "so_luot_thich": 2,
+    "so_binh_luan": 0
+  },
+  {
+    "_id": { "$oid": "700020000000000000000010" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000010" },
+    "tieu_de": "Mở rộng hiểu biết",
+    "noi_dung": "Học thêm kiến thức mới!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-10T08:25:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-10T08:25:00Z" },
+    "so_luot_thich": 1,
+    "so_binh_luan": 0
+  },
+  {
+    "_id": { "$oid": "700020000000000000000011" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000011" },
+    "tieu_de": "Cơ thể cần nghỉ ngơi",
+    "noi_dung": "Hôm nay hơi mệt...",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-11T20:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-11T20:00:00Z" },
+    "so_luot_thich": 0,
+    "so_binh_luan": 0
+  },
+  {
+    "_id": { "$oid": "700020000000000000000012" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000012" },
+    "tieu_de": "Lời chào đầu ngày",
+    "noi_dung": "Chào mọi người!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-12T12:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-12T12:00:00Z" },
+    "so_luot_thich": 8,
+    "so_binh_luan": 1
+  },
+  {
+    "_id": { "$oid": "700020000000000000000013" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000013" },
+    "tieu_de": "Tình cảm chân thành",
+    "noi_dung": "love you",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-12T12:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-12T12:00:00Z" },
+    "so_luot_thich": 7000,
+    "so_binh_luan": 100
+  },
+  {
+    "_id": { "$oid": "700020000000000000000014" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000014" },
+    "tieu_de": "Cuộc hẹn ẩm thực",
+    "noi_dung": "ăn gà jollibe đi nào các bạn yêu của tui",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-12T12:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-12T12:00:00Z" },
+    "so_luot_thich": 8705,
+    "so_binh_luan": 1215
+  },
+  {
+    "_id": { "$oid": "700020000000000000000015" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000015" },
+    "tieu_de": "Một ngày nhiều nắng",
+    "noi_dung": "Hôm nay trời đẹp quá!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-13T08:30:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-13T08:30:00Z" },
+    "so_luot_thich": 3250,
+    "so_binh_luan": 210
+  },
+  {
+    "_id": { "$oid": "700020000000000000000016" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000016" },
+    "tieu_de": "Đêm dài cùng bàn phím",
+    "noi_dung": "Viết code xuyên đêm luôn á!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-13T10:15:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-13T10:15:00Z" },
+    "so_luot_thich": 4590,
+    "so_binh_luan": 375
+  },
+  {
+    "_id": { "$oid": "700020000000000000000017" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000017" },
+    "tieu_de": "Khoảnh khắc xúc động",
+    "noi_dung": "Huhu Doraemon tập mới cảm động ghê.",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-13T15:00:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-13T15:00:00Z" },
+    "so_luot_thich": 9800,
+    "so_binh_luan": 600
+  },
+  {
+    "_id": { "$oid": "700020000000000000000018" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000018" },
+    "tieu_de": "Cuộc hẹn thể thao",
+    "noi_dung": "Tối nay đá bóng nè ae!",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-13T18:45:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-13T18:45:00Z" },
+    "so_luot_thich": 2100,
+    "so_binh_luan": 150
+  },
+  {
+    "_id": { "$oid": "700020000000000000000019" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000019" },
+    "tieu_de": "Thức uống quen thuộc",
+    "noi_dung": "Cà phê sữa đá đúng chân á.",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-13T20:10:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-13T20:10:00Z" },
+    "so_luot_thich": 5400,
+    "so_binh_luan": 280
+  },
+  {
+    "_id": { "$oid": "70002000000000000000001A" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000013" },
+    "tieu_de": "Cơn thèm bất chợt",
+    "noi_dung": "Lại thèm gà nữa rồi trời ơi :(",
+    "tep_phuong_tien": [],
+    "ngay_tao": { "$date": "2024-01-14T07:20:00Z" },
+    "ngay_cap_nhat": { "$date": "2024-01-14T07:20:00Z" },
+    "so_luot_thich": 7200,
+    "so_binh_luan": 340
+  }
+]

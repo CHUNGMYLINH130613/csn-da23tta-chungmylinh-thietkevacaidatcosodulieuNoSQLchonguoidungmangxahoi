@@ -1,0 +1,162 @@
+[
+  {
+    "_id": { "$oid": "700080000000000000000001" },
+    "bai_dang_id": { "$oid": "700020000000000000000001" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000001" },
+    "loai": "image",
+    "url": "https://example.com/media/post1-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000002" },
+    "bai_dang_id": { "$oid": "700020000000000000000002" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000002" },
+    "loai": "video",
+    "url": "https://example.com/media/post2-video.mp4",
+    "ngay_tao": { "$date": "2024-12-04T10:05:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000003" },
+    "bai_dang_id": { "$oid": "700020000000000000000003" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000003" },
+    "loai": "image",
+    "url": "https://example.com/media/post3-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000004" },
+    "bai_dang_id": { "$oid": "700020000000000000000004" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000004" },
+    "loai": "image",
+    "url": "https://example.com/media/post4-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000005" },
+    "bai_dang_id": { "$oid": "700020000000000000000005" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000005" },
+    "loai": "image",
+    "url": "https://example.com/media/post5-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000006" },
+    "bai_dang_id": { "$oid": "700020000000000000000006" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000006" },
+    "loai": "video",
+    "url": "https://example.com/media/post6-video.mp4",
+    "ngay_tao": { "$date": "2024-12-04T10:25:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000007" },
+    "bai_dang_id": { "$oid": "700020000000000000000007" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000007" },
+    "loai": "image",
+    "url": "https://example.com/media/post7-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000008" },
+    "bai_dang_id": { "$oid": "700020000000000000000008" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000008" },
+    "loai": "image",
+    "url": "https://example.com/media/post8-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:35:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000009" },
+    "bai_dang_id": { "$oid": "700020000000000000000009" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000009" },
+    "loai": "video",
+    "url": "https://example.com/media/post9-video.mp4",
+    "ngay_tao": { "$date": "2024-12-04T10:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000010" },
+    "bai_dang_id": { "$oid": "700020000000000000000010" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000010" },
+    "loai": "image",
+    "url": "https://example.com/media/post10-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000011" },
+    "bai_dang_id": { "$oid": "700020000000000000000011" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000011" },
+    "loai": "image",
+    "url": "https://example.com/media/post11-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000012" },
+    "bai_dang_id": { "$oid": "700020000000000000000012" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000012" },
+    "loai": "image",
+    "url": "https://example.com/media/post12-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T10:55:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000013" },
+    "bai_dang_id": { "$oid": "700020000000000000000013" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000013" },
+    "loai": "image",
+    "url": "https://example.com/media/post13-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000014" },
+    "bai_dang_id": { "$oid": "700020000000000000000014" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000014" },
+    "loai": "image",
+    "url": "https://example.com/media/post14-img1.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:05:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000015" },
+    "bai_dang_id": { "$oid": "700020000000000000000011" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000011" },
+    "loai": "video",
+    "url": "https://example.com/media/post11-video1.mp4",
+    "ngay_tao": { "$date": "2024-12-04T11:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000016" },
+    "bai_dang_id": { "$oid": "700020000000000000000012" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000012" },
+    "loai": "video",
+    "url": "https://example.com/media/post12-video1.mp4",
+    "ngay_tao": { "$date": "2024-12-04T11:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000017" },
+    "bai_dang_id": { "$oid": "700020000000000000000013" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000013" },
+    "loai": "image",
+    "url": "https://example.com/media/post13-img2.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000018" },
+    "bai_dang_id": { "$oid": "700020000000000000000014" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000014" },
+    "loai": "image",
+    "url": "https://example.com/media/post14-img2.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:25:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000019" },
+    "bai_dang_id": { "$oid": "700020000000000000000011" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000011" },
+    "loai": "image",
+    "url": "https://example.com/media/post11-img2.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700080000000000000000020" },
+    "bai_dang_id": { "$oid": "700020000000000000000012" },
+    "nguoi_dung_id": { "$oid": "700010000000000000000012" },
+    "loai": "image",
+    "url": "https://example.com/media/post12-img2.jpg",
+    "ngay_tao": { "$date": "2024-12-04T11:35:00Z" }
+  }
+]

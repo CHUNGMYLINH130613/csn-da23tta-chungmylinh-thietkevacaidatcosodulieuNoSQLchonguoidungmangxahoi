@@ -1,0 +1,201 @@
+[
+  {
+    "_id": { "$oid": "700060000000000000000001" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000001" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "loai": "like_post",
+    "bai_dang_id": { "$oid": "700020000000000000000001" },
+    "noi_dung": "Người dùng 2 đã thích bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T10:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000002" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000002" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000003" },
+    "loai": "comment_post",
+    "bai_dang_id": { "$oid": "700020000000000000000002" },
+    "binh_luan_id": { "$oid": "700030000000000000000001" },
+    "noi_dung": "Người dùng 3 đã bình luận bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T10:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000003" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000003" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000001" },
+    "loai": "follow",
+    "noi_dung": "Người dùng 1 đã bắt đầu theo dõi bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T10:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000004" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000004" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "loai": "reply_comment",
+    "binh_luan_id": { "$oid": "700030000000000000000002" },
+    "noi_dung": "Người dùng 2 đã phản hồi bình luận của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T10:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000005" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000005" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000006" },
+    "loai": "like_post",
+    "bai_dang_id": { "$oid": "700020000000000000000003" },
+    "noi_dung": "Người dùng 6 đã thích bài đăng của bạn.",
+    "da_doc": true,
+    "ngay_tao": { "$date": "2024-12-04T10:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000006" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000006" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000004" },
+    "loai": "comment_post",
+    "bai_dang_id": { "$oid": "700020000000000000000004" },
+    "binh_luan_id": { "$oid": "700030000000000000000003" },
+    "noi_dung": "Người dùng 4 đã bình luận bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T10:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000007" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000007" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000003" },
+    "loai": "follow",
+    "noi_dung": "Người dùng 3 đã theo dõi bạn.",
+    "da_doc": true,
+    "ngay_tao": { "$date": "2024-12-04T11:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000008" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000008" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000009" },
+    "loai": "reply_comment",
+    "binh_luan_id": { "$oid": "700030000000000000000004" },
+    "noi_dung": "Người dùng 9 đã phản hồi bình luận của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T11:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000009" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000009" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000001" },
+    "loai": "like_post",
+    "bai_dang_id": { "$oid": "700020000000000000000005" },
+    "noi_dung": "Người dùng 1 đã thích bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T11:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000010" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000010" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "loai": "comment_post",
+    "bai_dang_id": { "$oid": "700020000000000000000006" },
+    "binh_luan_id": { "$oid": "700030000000000000000005" },
+    "noi_dung": "Người dùng 2 đã bình luận bài đăng của bạn.",
+    "da_doc": true,
+    "ngay_tao": { "$date": "2024-12-04T11:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000011" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000011" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000007" },
+    "loai": "follow",
+    "noi_dung": "Người dùng 7 đã theo dõi bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T11:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000012" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000012" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000008" },
+    "loai": "like_post",
+    "bai_dang_id": { "$oid": "700020000000000000000007" },
+    "noi_dung": "Người dùng 8 đã thích bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T11:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000013" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000013" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000002" },
+    "loai": "comment_post",
+    "bai_dang_id": { "$oid": "700020000000000000000015" },
+    "noi_dung": "Người dùng 2 đã bình luận vào bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T12:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000014" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000014" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000003" },
+    "loai": "reply_comment",
+    "binh_luan_id": { "$oid": "700030000000000000000019" },
+    "noi_dung": "Người dùng 3 đã phản hồi bình luận của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T12:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000015" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000015" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000010" },
+    "loai": "like_comment",
+    "binh_luan_id": { "$oid": "700030000000000000000016" },
+    "noi_dung": "Người dùng 10 đã thích bình luận của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T12:40:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000016" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000016" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000017" },
+    "loai": "like_post",
+    "bai_dang_id": { "$oid": "700020000000000000000016" },
+    "noi_dung": "Người dùng 17 đã thích bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T12:50:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000017" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000017" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000020" },
+    "loai": "follow",
+    "noi_dung": "Người dùng 20 đã theo dõi bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T13:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000018" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000018" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000006" },
+    "loai": "tag_post",
+    "bai_dang_id": { "$oid": "700020000000000000000018" },
+    "noi_dung": "Người dùng 6 đã gắn thẻ bạn trong một bài đăng.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T13:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000019" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000019" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000014" },
+    "loai": "comment_post",
+    "bai_dang_id": { "$oid": "700020000000000000000019" },
+    "noi_dung": "Người dùng 14 đã bình luận vào bài đăng của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T13:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "700060000000000000000020" },
+    "nguoi_nhan_id": { "$oid": "700010000000000000000020" },
+    "nguoi_gui_id": { "$oid": "700010000000000000000011" },
+    "loai": "reply_comment",
+    "binh_luan_id": { "$oid": "700030000000000000000018" },
+    "noi_dung": "Người dùng 11 đã phản hồi bình luận của bạn.",
+    "da_doc": false,
+    "ngay_tao": { "$date": "2024-12-04T13:30:00Z" }
+  }
+]

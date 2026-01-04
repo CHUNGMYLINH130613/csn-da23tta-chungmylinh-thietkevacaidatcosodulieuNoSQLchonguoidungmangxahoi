@@ -15,4 +15,5 @@ Thiết kế và cài đặt cơ sở dữ liệu NoSQL cho hệ thống ngườ
 
 # Tác giả 
 Chung Mỹ Linh - DA23TTA - 110123023
+chungmylinh41@gmail.com
   

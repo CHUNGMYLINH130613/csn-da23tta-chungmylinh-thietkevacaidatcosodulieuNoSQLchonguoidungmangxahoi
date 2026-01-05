@@ -24,7 +24,7 @@
 - Tạo cơ sở dữ liệu và các collection theo mô hình đã thiết kế
 - Sau đó chèn dữ liệu mẫu
   
-## Cấu trúc thư mục 
+## IV. Cấu trúc thư mục 
 - scr/: Mã nguồn, tập tin dữ liệu mẫu thử nghiệm của đồ án
 - thesis/: Tài liệu đồ án (Word,Powerpoint)
  
